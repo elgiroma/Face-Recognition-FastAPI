@@ -1,2 +1,3 @@
 # Face-Recognition-FastAPI
-Prueba de un modelo con FastAPI
+
+Facial recognition MTCNN using FastAPI
